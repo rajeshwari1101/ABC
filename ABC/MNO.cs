@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ABC
 {
-    internal class XYZ
+    internal class MNO
     {
-        sbytedfnksdjfhskdjfh
     }
 }
