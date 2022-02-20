@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ABC
 {
-    internal class PQR
+    internal class XYZ
     {
-        dfkjg vkhdfgj dkfgh 
+        sbytedfnksdjfhskdjfh
     }
-}skdfj sldkjf
-    sdjfhg sdkfj
-     dfjhdfkdjh
+}
